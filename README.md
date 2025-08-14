@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/twitter/follow/r_oudouch?logo=twitter&style=for-the-badge" alt="r_oudouch" />
   </a>
   <a href="https://oudouch.vercel.app/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=vercel" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=vercel" alt="Portfolio" />
   </a>
 </p>
 
